@@ -1,0 +1,19 @@
+{
+  "name": "product-management-system",
+  "version": "1.0.0",
+  "description": "Product Management System with dark/light theme toggle",
+  "main": "index.html",
+  "scripts": {
+    "start": "npx serve .",
+    "dev": "npx serve ."
+  },
+  "keywords": [
+    "product-management",
+    "html",
+    "css",
+    "javascript"
+  ],
+  "author": "",
+  "license": "MIT"
+}
+
